@@ -51,7 +51,7 @@ def banner():
     for char in b:
         print(f'{random.choice(colors)}{char}{rs}')
     #print('=============DEMON OF GOD==============')
-    print(f'{lg}   Version: {w}1.0{lg} | Author: {w}ZEBRA{rs}\n')
+    print(f'{lg}   Version: {w}1.0{lg} | Author: {w}DANGER{rs}\n')
 
 
 # function to clear screen
