@@ -37,7 +37,7 @@ def banner():
     for char in b:
         print(f'{random.choice(colors)}{char}{n}')
     #print('=============DEMON OF GOD==============')
-    print(f'   Version: 1.0 | Author: ZEBRA{n}\n')
+    print(f'   Version: 1.0 | Author: DANGER{n}\n')
 
 def clr():
     if os.name == 'nt':
