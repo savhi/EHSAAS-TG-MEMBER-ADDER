@@ -4,10 +4,10 @@
 # 𝚄𝚂𝙰𝙶𝙴 👨‍🔧
 
 * You need to install requirements first - `pip install -r requirements.txt`
-* Then you need to store your accounts using `ZebraManager.py`
-* Then, scrape and add members using `ZebraAdder.py`
+* Then you need to store your accounts using `EhsaasManager.py`
+* Then, scrape and add members using `EhsaasAdder.py`
 
-<b> For full tutorial, refer to <a href='https://github.com/Sumit9969/ZEBRA-TG-MEMBER-ADDER/blob/main/how_to_use.txt'>how_to_use.txt</a> </b>
+<b>
 
 # ❄︎ 𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂 ❄︎ 
 
